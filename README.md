@@ -1,2 +1,12 @@
-# crawler
-·AI训练生成的各类Python爬虫脚本 ·Various Python crawler scripts generated through AI training
+## AI训练生成的各类Python爬虫脚本
+
+​	目前只有一个脚本，爬取京东招采供应商协同平台所有数据的脚本
+
+### 1.京东招采供应协同平台：
+
+#### 效果：              
+
+#### 注意：
+
+​	需要在py文件第15行修改成自己需要的文件生成路径
+
