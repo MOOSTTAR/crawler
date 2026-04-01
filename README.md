@@ -20,7 +20,7 @@ python JD_Bidding_crawler.py
 
 ## Various Python crawler scripts generated through AI training
 
-Currently, there is only one script, which is used to crawl all data from the JD.com Procurement Supplier Collaboration Platform
+&nbsp;&nbsp;&nbsp;&nbsp;Currently, there is only one script, which is used to crawl all data from the JD.com Procurement Supplier Collaboration Platform
 
 ### 1. JD Procurement and Supply Collaboration Platform:
 
